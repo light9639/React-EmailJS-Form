@@ -14,7 +14,7 @@ export default function ContactUs(): JSX.Element {
                 console.log('FAILED...', err);
             });
 
-        alert('메세지를 수신했습니다.')
+        alert('메세지를 dong963939@gmail.com으로 전송했습니다.')
 
         e.target.reset()
     }
